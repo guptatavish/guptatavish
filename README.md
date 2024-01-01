@@ -1,4 +1,4 @@
-<h1 align="center">👋 , I am t4vish</h1>
+<h1 align="center">👋 !</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptatavish&label=Profile%20views&color=0e75b6&style=flat" alt="guptatavish" /> </p>
 
 - 🌱 I’m currently exploring **different domains in tech!**
